@@ -10,5 +10,3 @@ I'm currently focused on:
 **Security Research**: Exploring emerging trends and technologies within the decentralized ecosystem.
 
 I believe in sharing knowledge and contributing to the community, so you'll find a mix of personal projects, tutorials, and resources here on my GitHub. As I continue to grow in this space, I look forward to collaborating with others who share the same commitment to security and innovation.
-
-Let's build a safer decentralized future together.
