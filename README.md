@@ -8,8 +8,8 @@ My focus is on identifying and mitigating vulnerabilities in decentralized syste
 I believe that thorough manual review is the cornerstone of effective smart contract security. I complement my analysis with tools like Slither and Aderyn to enhance the accuracy and efficiency of my work. This combined approach allows me to uncover potential security risks while maintaining a deep understanding of the code.
 
 ## Skills 💼
-- **Languages**: Solidity (For now)
-- **Frameworks/Tools**: Foundry, Remix
+- **Languages**: Solidity, JavaScript, TypeScript
+- **Frameworks/Tools**: Foundry oe HardHat
 - **Testing & Security Tools**: Slither, Aderyn
 
 ## Professional Development 🌱
