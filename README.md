@@ -9,7 +9,7 @@ I believe that thorough manual review is the cornerstone of effective smart cont
 
 ## Skills 💼
 - **Languages**: Solidity, JavaScript, TypeScript
-- **Frameworks/Tools**: Foundry oe HardHat
+- **Frameworks/Tools**: Foundry or HardHat
 - **Testing & Security Tools**: Slither, Aderyn
 
 ## Professional Development 🌱
