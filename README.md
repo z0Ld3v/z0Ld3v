@@ -1,15 +1,11 @@
 # Hi, I'm z0L👋🏾
 
 ## About Me 🚀
-I'm a passionate security researcher specializing in web3 and blockchain technologies. 
+I'm a passionate security researcher and web3 developer specializing in blockchain technologies.
 
-My focus is on identifying and mitigating vulnerabilities in decentralized systems, ensuring that the future of finance and governance is secure and resilient.
+My focus is on identifying and mitigating vulnerabilities in decentralized systems, ensuring that the future of finance and governance is secure and resilient. With experience in both smart contract development and security, I bring a balanced perspective to creating and auditing dApps.
 
-I believe that thorough manual review is the cornerstone of effective smart contract security. 
-
-I complement my manual analysis with tools like Slither and Aderyn to enhance the accuracy and efficiency of my work. 
-
-This combined approach allows me to uncover potential security risks while maintaining a deep understanding of the code.
+I believe that thorough manual review is the cornerstone of effective smart contract security. I complement my analysis with tools like Slither and Aderyn to enhance the accuracy and efficiency of my work. This combined approach allows me to uncover potential security risks while maintaining a deep understanding of the code.
 
 ## Skills 💼
 - **Languages**: Solidity (For now)
