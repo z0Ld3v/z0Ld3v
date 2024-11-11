@@ -13,10 +13,8 @@ I believe that thorough manual review is the cornerstone of effective smart cont
 - **Testing & Security Tools**: Slither, Aderyn
 
 ## Professional Development 🌱
-- Security patterns in smart contract design
-- Common vulnerabilities and exploits in smart contracts
-- Advanced testing techniques for decentralized applications
+I specialize in both secure development and security analysis of smart contracts, combining my skills to build and protect decentralized applications. My focus areas include security patterns in smart contract design, common vulnerabilities and exploits in smart contracts, and advanced testing techniques for decentralized applications. As a developer, I work to implement best practices in Solidity, creating code that's both efficient and resilient.
 
-I believe in sharing knowledge and contributing to the community, so you'll find a mix of personal projects, tutorials, and resources here on my GitHub. 
+I believe in sharing knowledge and contributing to the community, so you'll find a mix of personal projects, tutorials, and resources here on my GitHub. Whether I'm writing a new dApp or conducting a detailed audit, I aim to provide insights that strengthen web3 security.
 
-As I continue to grow in this space, I look forward to collaborating with others who share the same commitment to security and innovation.
+As I continue to grow in this space, I look forward to collaborating with others who share the same commitment to secure, innovative blockchain solutions.
